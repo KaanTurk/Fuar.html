@@ -1,0 +1,53 @@
+img{
+    height: 300px;
+    width: 400px;
+    position: absolute;
+    top: 200px;
+    right:750px;
+    
+    
+}
+.headline{
+    position: relative;
+    text-align: center;
+    font-size: large;
+    border-collapse: collapse;
+    top: 450px;
+
+}
+
+p{
+
+    position: relative;
+    display: block;
+    margin: auto;
+    padding: 5px;
+    
+    
+}
+
+
+#formekrani{
+    position: relative;
+    display: flex;
+   
+    top: 200px;
+    margin: auto;
+    height: 600px;
+    width: 500px;
+
+}
+
+#name{
+    position: relative;
+    margin: auto;
+    padding: auto;
+    bottom: 200px;
+}
+#password{
+    position: relative;
+    margin: auto;
+    padding: auto;
+    bottom: 130px;
+    right: 280px;
+}
